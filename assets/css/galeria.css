@@ -1,0 +1,83 @@
+
+.meio{ width:706px; margin:0 auto;}
+
+#galeria-next{ position:absolute; top:150px; right:-40px; background:url("../img/carousel/galeria/gr_seta_dir.png") no-repeat center top; width:30px; height:30px; cursor: pointer;}
+#galeria-prev{ position:absolute; top:150px; left:-30px; background:url("../img/carousel/galeria/gr_seta_esq.png") no-repeat center top; width:30px; height:30px;  cursor: pointer;}
+
+.jcarousel-item{ background:url(../img/carousel/box/gr_fita.jpg) repeat-y right}
+
+.tb_controle{ width:710px; display:block; position:relative; overflow:hidden;}
+.tb_controle ul{ height:87px; margin-top:15px; overflow:hidden; }
+.tb_controle li{  width:56px; height:85px;  float:left; margin:2px 0 0 3px; cursor:pointer;}
+.tb_hover_border_vermelha{ width:52px; height:55px; margin-top:-2px; margin-left:-2px; border:3px solid #bd000c; }
+.tb_hover_ano{ width:52px; margin-top:8px; font-family: 'DIN-Light', Arial, Helvetica, sans-serif; font-size:16px; color:#bd000c; text-align:center;} 
+.tb_hover{ width:56px; height:58px; background:url(../img/carousel/galeria/galeria_bg.png);}
+
+
+.tb_controle2{ width:710px; display:block; position:relative; overflow:hidden; margin-top:13px;}
+.tb_controle2 ul{ height:87px; margin-top:15px; overflow:hidden; }
+.tb_controle2 li{  width:56px !important; height:85px !important;  float:left; margin:2px 0 0 3px; cursor:pointer;}
+
+
+
+.tb_01{ background:url("../img/carousel/galeria/tb_01.jpg") no-repeat}
+.tb_02{ background:url("../img/carousel/galeria/tb_02.jpg") no-repeat}
+.tb_03{ background:url("../img/carousel/galeria/tb_03.jpg") no-repeat}
+.tb_04{ background:url("../img/carousel/galeria/tb_04.jpg") no-repeat}
+.tb_05{ background:url("../img/carousel/galeria/tb_05.jpg") no-repeat}
+.tb_06{ background:url("../img/carousel/galeria/tb_06.jpg") no-repeat}
+.tb_07{ background:url("../img/carousel/galeria/tb_07.jpg") no-repeat}
+.tb_08{ background:url("../img/carousel/galeria/tb_08.jpg") no-repeat}
+.tb_09{ background:url("../img/carousel/galeria/tb_09.jpg") no-repeat}
+.tb_10{ background:url("../img/carousel/galeria/tb_10.jpg") no-repeat}
+.tb_11{ background:url("../img/carousel/galeria/tb_11.jpg") no-repeat}
+.tb_12{ background:url("../img/carousel/galeria/tb_12.jpg") no-repeat}
+.tb_13{ background:url("../img/carousel/galeria/tb_13.jpg") no-repeat}
+.tb_14{ background:url("../img/carousel/galeria/tb_14.jpg") no-repeat}
+.tb_15{ background:url("../img/carousel/galeria/tb_15.jpg") no-repeat}
+.tb_16{ background:url("../img/carousel/galeria/tb_16.jpg") no-repeat}
+
+
+.galeria_img_ano{ width:237px; height:314px; float:left;}
+.galeria_box_info{width:450px; height:314px; float:left; margin-left:5px;}
+
+
+.gr_1854{background:url("../img/carousel/box/gr_1854.jpg");}
+.gr_1914{background:url("../img/carousel/box/gr_1914.jpg");}
+.gr_1932{background:url("../img/carousel/box/gr_1932.jpg");}
+.gr_1940{background:url("../img/carousel/box/gr_1940.jpg");}
+.gr_1949{background:url("../img/carousel/box/gr_1949.jpg");}
+.gr_1960{background:url("../img/carousel/box/gr_1960.jpg");}
+.gr_1992{background:url("../img/carousel/box/gr_1992.jpg");}
+.gr_1996{background:url("../img/carousel/box/gr_1996.jpg");}
+.gr_1998{background:url("../img/carousel/box/gr_1998.jpg");}
+.gr_2000{background:url("../img/carousel/box/gr_2000.jpg");}
+.gr_2001{background:url("../img/carousel/box/gr_2001.jpg");}
+.gr_2002{background:url("../img/carousel/box/gr_2002.jpg");}
+.gr_2004{background:url("../img/carousel/box/gr_2004.jpg");}
+.gr_2005{background:url("../img/carousel/box/gr_2005.jpg");}
+.gr_2008{background:url("../img/carousel/box/gr_2008.jpg");}
+.gr_2012{background:url("../img/carousel/box/gr_2012.jpg");}
+
+.gr_1854_info{background:url("../img/carousel/box/gr_1854_bg.jpg");}
+.gr_1914_info{background:url("../img/carousel/box/gr_1914_bg.jpg");}
+.gr_1932_info{background:url("../img/carousel/box/gr_1932_bg.jpg");}
+.gr_1940_info{background:url("../img/carousel/box/gr_1940_bg.jpg");}
+.gr_1949_info{background:url("../img/carousel/box/gr_1949_bg.jpg");}
+.gr_1960_info{background:url("../img/carousel/box/gr_1960_bg.jpg");}
+.gr_1992_info{background:url("../img/carousel/box/gr_1992_bg.jpg");}
+.gr_1996_info{background:url("../img/carousel/box/gr_1996_bg.jpg");}
+.gr_1998_info{background:url("../img/carousel/box/gr_1998_bg.jpg");}
+.gr_2000_info{background:url("../img/carousel/box/gr_2000_bg.jpg");}
+.gr_2001_info{background:url("../img/carousel/box/gr_2001_bg.jpg");}
+.gr_2002_info{background:url("../img/carousel/box/gr_2002_bg.jpg");}
+.gr_2004_info{background:url("../img/carousel/box/gr_2004_bg.jpg");}
+.gr_2005_info{background:url("../img/carousel/box/gr_2005_bg.jpg");}
+.gr_2008_info{background:url("../img/carousel/box/gr_2008_bg.jpg");}
+.gr_2012_info{background:url("../img/carousel/box/gr_2012_bg.jpg");}
+
+.galeria_ano{ margin:33px 0 0 35px; font-family: 'DIN-Light', Arial, Helvetica, sans-serif; font-size:72px; color:#383838;}
+.galeria_info{ width:378px; margin:53px 0 0 37px; font-family: 'DIN-Regular', Arial, Helvetica, sans-serif; font-size:18px; color:#383838;}
+
+
+
